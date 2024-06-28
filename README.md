@@ -30,26 +30,16 @@ Please let us know on the [sktime discord](https://discord.com/invite/54ACzaFsn7
 
 ## :bulb: Description
 
-Fill in
+## Outline
 
+| | Title | Description | Code |
+| ---- | ---------------------------- | ------------------------------------------------------------ | ---- |
+| 1 | General Introduction to tsbootstrap and sktime | An overview of time series analysis, bootstrapping methods, and their significance. Introduction to tsbootstrap and sktime, their features, and capabilities. | TBD |
+| 2 | Time Series Forecasting and Uncertainty Quantification | Exploration of sktime's forecasting models and their integration with tsbootstrap. Hands-on exercise applying sktime models for forecasting with uncertainty quantification. Introduction to probabilistic forecasting. | TBD |
+| 3 | Time Series Bootstrapping | Detailed exploration of tsbootstrap's bootstrapping methods (Block, Residual, Sieve, etc.). Hands-on exercise implementing Block Bootstrap on sample time series data. Advanced bootstrapping methods with illustrative examples. | TBD |
+| 4 | Metrics, Evaluation, and Backtesting | Overview of model performance evaluation techniques. Hands-on exercise on creating probabilistic forecasts and evaluating model performance. Introduction to backtesting methodologies. | TBD |
+| 5 | Advanced Model Building | Real-world case studies demonstrating the application of tsbootstrap and sktime. Discussion on future trends and directions in time series analysis. Introduction to the community ecosystem and how to contribute to tsbootstrap and sktime's development. | TBD |
 
-## :movie_camera: Other Tutorials
-
-- [Europython 2023 - General sktime introduction, half-day workshop](https://github.com/sktime/sktime-tutorial-europython-2023)
-
-- [PyCon Prague 2023 - Forecasting, Advanced Pipelines, Benchmarking](https://github.com/sktime/sktime-workshop-scipy-2024)
-
-- [Pydata Amsterdam 2023 - Probabilistic prediction, forecasting, evaluation](https://github.com/sktime/sktime-tutorial-pydata-Amsterdam-2023)
-
-- [ODSC Europe 2023 - Forecasting, Pipelines, and ML Engineering](https://github.com/sktime/sktime-tutorial-ODSC-Europe-2023/tree/main)
-
-- [Pydata London 2023 - Time Series Classification, Regression, Distances & Kernels](https://github.com/sktime/sktime-tutorial-pydata-london-2023)
-
-- [Pydata Berlin 2022 - Advanced Forecasting Tutorial](https://www.youtube.com/watch?v=4Rf9euAhjNc)
-
-- [Pydata London 2022 - How to implement your own estimator in sktime](https://www.youtube.com/watch?v=S_3ewcvs_pg)
-
-- [Pydata Global 2022 - Feature extraction, Pipelines, Tuning](https://github.com/sktime/sktime-tutorial-pydata-global-2022)
 
 
 ## :wave: How to contribute

@@ -1,5 +1,5 @@
-Welcome to the "Enhancing Predictive Analytics with tsbootstrap and sktime" workshop at scipy 2024
-============================================
+Welcome to the sktime/tsbootstrap workshop at scipy 2024
+========================================================
 
 This tutorial is designed for data scientists, analysts, and researchers interested in advanced time series analysis and forecasting techniques. We'll explore cutting-edge methods for enhancing uncertainty quantification and prediction accuracy in time series data, using state-of-the-art tools like [tsbootstrap](www.github.com/astrogilda/tsbootstrap) and [sktime](www.github.com/sktime/sktime).
 
@@ -34,13 +34,13 @@ Please let us know on the [sktime discord](https://discord.com/invite/54ACzaFsn7
 
 ## Outline
 
-| | Title | Description | Code |
-| ---- | ---------------------------- | ------------------------------------------------------------ | ---- |
-| 1 | General Introduction to tsbootstrap and sktime | An overview of time series analysis, bootstrapping methods, and their significance. Introduction to tsbootstrap and sktime, their features, and capabilities. | TBD |
-| 2 | Time Series Forecasting and Uncertainty Quantification | Exploration of sktime's forecasting models and their integration with tsbootstrap. Hands-on exercise applying sktime models for forecasting with uncertainty quantification. Introduction to probabilistic forecasting. | TBD |
-| 3 | Time Series Bootstrapping | Detailed exploration of tsbootstrap's bootstrapping methods (Block, Residual, Sieve, etc.). Hands-on exercise implementing Block Bootstrap on sample time series data. Advanced bootstrapping methods with illustrative examples. | TBD |
-| 4 | Metrics, Evaluation, and Backtesting | Overview of model performance evaluation techniques. Hands-on exercise on creating probabilistic forecasts and evaluating model performance. Introduction to backtesting methodologies. | TBD |
-| 5 | Advanced Model Building | Real-world case studies demonstrating the application of tsbootstrap and sktime. Discussion on future trends and directions in time series analysis. Introduction to the community ecosystem and how to contribute to tsbootstrap and sktime's development. | TBD |
+| | Title | Description |
+| ---- | ---------------------------- | ------------------------------------------------------------ 
+| 1 | Overview of tsbootstrap and sktime | Feature overview of sktime and tsbootstrap |
+| 2 | Forecasting with sktime | Introduction to forecasting with sktime. Basic usage, univariate/multivariate, endogenous/exogenous, probabilistic, hierarchical forecasts. |
+| 3 | Time Series Bootstrapping with tsbootstrap | Introduction to bootstrapping, relation to uncertainty quantificaiton. Time series bootstrapping. |
+| 4 | Probabilistic forecasts with sktime | Probabilistic forecasting vignettes. Backtest-evaluation of probabilistic forecasters, tuning. |
+| 5 | Advanced probabilistic prediction | Deep-dive into prediction types, distributional predictions. Performance metrics revisited. Probabilistic reduction models, feature engineering. |
 
 
 
